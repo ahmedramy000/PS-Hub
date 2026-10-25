@@ -1,7 +1,7 @@
 // ديار بلايستيشن — سلوك الموقع (قائمة الموبايل + صور الأغلفة + حجز المعاد)
 
 // ✏️ غيّر رقم الواتساب هنا بصيغة دولية من غير + أو أصفار زيادة (مثال: مصر 201xxxxxxxxx)
-var WHATSAPP_NUMBER = '201000000000';
+var WHATSAPP_NUMBER = '201023653422';
 
 document.addEventListener('DOMContentLoaded', function () {
 
